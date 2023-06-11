@@ -20,12 +20,11 @@ Peekabook📚 Coming soon!
 </div>
   
  ---
-
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2zerozu&theme=dracula&layout=compact&langs_count=10"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2zerozu&theme=dracula&layout=compact&langs_count=10"/>
  
-<div align="left">
+<div align="center">
   
-#### Tech Stack
+#### 🛠️ Skills & Tools 🛠️
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJdk&logoColor=white"/>
 <br>
