@@ -15,7 +15,6 @@ Hous-🏠 앱 다운로드 바로가기 [AOS](https://play.google.com/store/apps
   
 Peekabook📚 Coming soon!
 
-<br>
  
 </div>
   
