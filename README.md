@@ -13,7 +13,7 @@
   
 Hous-🏠 앱 다운로드 바로가기 [AOS](https://play.google.com/store/apps/details?id=hous.release.android), [iOS](https://apps.apple.com/kr/app/hous-/id1659976144) &nbsp;|&nbsp; *v1.0.6*
   
-Peekabook📚 Coming soon!
+Peekabook📚 앱 다운로드 바로가기 [AOS](https://play.google.com/store/apps/details?id=com.sopt.peekabookaos&pcampaignid=web_share), iOS &nbsp;|&nbsp; *v1.0.0*
 
  
 </div>
