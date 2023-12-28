@@ -7,12 +7,13 @@
 <a href="https://github.com/2zerozu"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F2zerozu&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a><br>
 [<img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=naver&logoColor=white"/>](mailto:yungju9982@naver.com)
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>](https://www.instagram.com/2zerozu)
+[<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>](mailto:yungju99@gmail.com)
  ---
 <br>
   
 Hous-🏠 앱 다운로드 바로가기 [AOS](https://play.google.com/store/apps/details?id=hous.release.android), [iOS](https://apps.apple.com/kr/app/hous-/id1659976144) &nbsp;|&nbsp; *v1.0.6*
   
-Peekabook📚 앱 다운로드 바로가기 [AOS](https://play.google.com/store/apps/details?id=com.sopt.peekabookaos&pcampaignid=web_share), [iOS](https://apps.apple.com/kr/app/%ED%94%BC%EC%B9%B4%EB%B6%81/id6446477224) &nbsp;|&nbsp; *v1.0.2*
+Peekabook📚 앱 다운로드 바로가기 [AOS](https://play.google.com/store/apps/details?id=com.sopt.peekabookaos&pcampaignid=web_share), [iOS](https://apps.apple.com/kr/app/%ED%94%BC%EC%B9%B4%EB%B6%81/id6446477224) &nbsp;|&nbsp; *v1.0.1*
 
  
 </div>
