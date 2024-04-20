@@ -10,7 +10,7 @@
 [<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>](mailto:yungju99@gmail.com)
 <br>
   
-Hous-🏠 앱 다운로드 바로가기 [AOS](https://play.google.com/store/apps/details?id=hous.release.android), [iOS](https://apps.apple.com/kr/app/hous-/id1659976144) &nbsp;|&nbsp; *v1.1.0*
+Hous-🏠 앱 다운로드 바로가기 [AOS](https://play.google.com/store/apps/details?id=hous.release.android), [iOS](https://apps.apple.com/kr/app/hous-/id1659976144) &nbsp;|&nbsp; *v2.0.0*
   
 Peekabook📚 앱 다운로드 바로가기 [AOS](https://play.google.com/store/apps/details?id=com.sopt.peekabookaos&pcampaignid=web_share), [iOS](https://apps.apple.com/kr/app/%ED%94%BC%EC%B9%B4%EB%B6%81/id6446477224) &nbsp;|&nbsp; *v1.2.1*
 
