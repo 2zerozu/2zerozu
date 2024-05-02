@@ -3,7 +3,7 @@
   <img align="right" width="52%" src="https://github-readme-stats.vercel.app/api?username=2zerozu&show_icons=true&theme=dracula&hide="/>
  
   ### 🐣 YeongJu Lee 🐥 
-  #### [Click to learn more about me](https://2zerozu.notion.site/4912aedcedbd4eecb4e067d43728e5f9?pvs=4)
+
 <a href="https://github.com/2zerozu"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F2zerozu&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a><br>
 [<img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=naver&logoColor=white"/>](mailto:yungju9982@naver.com)
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>](https://www.instagram.com/2zerozu)
