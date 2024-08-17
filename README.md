@@ -11,7 +11,7 @@
 [<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/>](https://www.linkedin.com/in/%EC%98%81%EC%A3%BC-%EC%9D%B4-190374300?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 <br>
   
-Hous-🏠 서비스 종료🔥 &nbsp;|&nbsp; *v2.0.0*
+Hous-🏠 🔥서비스 종료🔥 &nbsp;|&nbsp; *v2.0.0*
   
 Peekabook📚 앱 다운로드 바로가기 [AOS](https://play.google.com/store/apps/details?id=com.sopt.peekabookaos&pcampaignid=web_share), [iOS](https://apps.apple.com/kr/app/%ED%94%BC%EC%B9%B4%EB%B6%81/id6446477224) &nbsp;|&nbsp; *v1.2.1*
 
