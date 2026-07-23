@@ -1,47 +1,41 @@
-<div align="center">
- 
-  <img align="right" width="52%" src="https://github-readme-stats.vercel.app/api?username=2zerozu&show_icons=true&theme=dracula&hide="/>
- 
-  ### 🐣 YeongJu Lee 🐥 
+# Yeongju Lee
 
-[<img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=naver&logoColor=white"/>](mailto:yungju9982@naver.com)
-[<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>](https://www.instagram.com/2zerozu)
-[<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>](mailto:yungju99@gmail.com)
-[<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/>](https://www.linkedin.com/in/%EC%98%81%EC%A3%BC-%EC%9D%B4-190374300?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
-<br>
-  
-Hous-🏠 🔥서비스 종료🔥 &nbsp;|&nbsp; *v2.0.0*
-  
-Peekabook📚 앱 다운로드 바로가기 [AOS](https://play.google.com/store/apps/details?id=com.sopt.peekabookaos&pcampaignid=web_share), [iOS](https://apps.apple.com/kr/app/%ED%94%BC%EC%B9%B4%EB%B6%81/id6446477224) &nbsp;|&nbsp; *v1.2.1*
+**Android Engineer** · Seoul, South Korea
 
- 
-</div>
-  
- ---
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2zerozu&theme=dracula&layout=compact&langs_count=10"/>
- 
-<div align="center">
-  
-#### 🛠️ Skills & Tools 🛠️
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJdk&logoColor=white"/>
-<br>
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring MVC-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+I build native Android for devices, not just app stores. Most of my work sits close to the hardware — embedded Android on custom devices, wearables, multi-display systems — where reliability and performance matter more than following the latest UI trend. Shipping to Google Play since 2022.
 
+## Experience
 
-<br>
-<img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=white"/>
+**Android Software Engineer — TJ Media** · Apr 2025 – present
 
-<br>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
-<img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/Zeplin-DE952D?style=flat-square"/>
-<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=black"/>
+Working on the Android software built into music and karaoke hardware.
+
+- Rewrote the OTA updater from Java to Kotlin (~95%), migrating the core off `AsyncTask` onto Coroutines and removing thread and Context leaks.
+- Built the music-score settings system in MVVM and Clean Architecture, bridging the app to a native `.aar` scoring engine — a module I own end to end, coordinating seven song types across three displays.
+- Diagnosed settings-menu jank caused by cross-process `ContentProvider` reads on the hot path and replaced them with a thread-safe in-memory cache.
+
+**Android Software Engineer — L&H Labs** · May 2024 – Aug 2024
+
+- Built real-time phone-to-watch BLE synchronisation for a non-standalone Wear OS companion, with the watch running as a GATT server over a custom 8-byte protocol.
+- Shipped around 59 Wear OS screens in Jetpack Compose on a Hilt/MVVM StateFlow architecture, including custom cardiac charts drawn on Canvas.
+- Wrote unit tests for the Retrofit layer using Robolectric and Hilt, alongside instrumentation tests.
+
+## Projects
+
+**TookTook** — a social fishing-log app, currently in development. Encrypted token storage (Tink AEAD over DataStore, key held in the Android Keystore), Kakao login with silent refresh, and an off-main-thread image pipeline (downsample, EXIF, WebP) behind the catch-record flow.
+
+**Peekabook** — a book-sharing app live on Google Play. I led the Android development: onboarding, Kakao login, book CRUD, and barcode search with CameraX and ML Kit.
+[Play Store](https://play.google.com/store/apps/details?id=com.sopt.peekabookaos) · [App Store](https://apps.apple.com/kr/app/%ED%94%BC%EC%B9%B4%EB%B6%81/id6446477224)
+
+## Tech
+
+Kotlin · Java · Jetpack Compose · Coroutines & Flow · MVVM / Clean Architecture · Hilt · Retrofit / OkHttp · JUnit / Robolectric · BLE · Wear OS · GitHub Actions · Git
+
+## Background
+
+B.Eng. in Media Technology with a double major in Computer Science, The Catholic University of Korea. Grand Prize (x2) and Android Part MVP across national hackathons (SOPT, GDSC).
+
+## Contact
+
+- [LinkedIn](https://www.linkedin.com/in/2zerozu/)
+- Email: yungju9982@naver.com
